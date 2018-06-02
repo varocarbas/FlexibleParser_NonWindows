@@ -1,4 +1,4 @@
-# FlexibleParser outside Windows samples
+# Samples showing how to use FlexibleParser outside Windows
 
 In principle, all the FlexibleParser parts are expected to be used on Windows machines supporting the .NET Framework v. 4.0, but they might also be used on other operating systems and under different conditions.
 

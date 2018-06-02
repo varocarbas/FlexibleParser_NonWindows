@@ -1,0 +1,4 @@
+- Make sure that .NET Core 2.0 or newer is installed in the given machine, which has to be running on Linux.
+
+- Open a command prompt and type the following:
+./FlexibleParser_MonoDevelop.exe

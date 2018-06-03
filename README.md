@@ -5,7 +5,7 @@ In principle, all the FlexibleParser parts are expected to be used on Windows ma
 Note that converting them into a platform-agnostic format like .NET Core isn't straightforward, but neither strictly required by bearing in mind its underlying purpose: to be used by other pieces of software.
 
 The sample codes in this repository create a version of the [original, Windows-based test application](https://github.com/varocarbas/FlexibleParser/tree/master/all_code/Test) which can be run on operating systems different than Windows:
-- [MonoDevelop (Linux)](https://github.com/varocarbas/FlexibleParser_NonWindows/tree/master/FlexibleParser_MonoDevelop).
+- [Mono/MonoDevelop (Linux)](https://github.com/varocarbas/FlexibleParser_NonWindows/tree/master/FlexibleParser_MonoDevelop).
 - [.NET Core 2.0 (any OS)](https://github.com/varocarbas/FlexibleParser_NonWindows/tree/master/FlexibleParser_Core).
 
 
